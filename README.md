@@ -36,3 +36,10 @@ Click on an image to see the upscaled versions.
 [![Hash](hash/original.png)](Hash.md)
 
 [![Gradients](gradients/original.png)](Gradients.md)
+
+Window functions
+================
+
+Tuning the window function can have different results as well. All of these tests were performed by modifying scale-window, with scale=jinc:scale-radius=3.2383154841662362.
+
+[![Windows](gradients/original.png)](Windows.md)
