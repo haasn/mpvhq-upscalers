@@ -51,6 +51,9 @@
     scale=ewa_lanczossoft
 ![](gradients/ewa_lanczossoft.png)
 
+    scale=haasnsoft
+![](gradients/haasnsoft.png)
+
     scale=bicubic
 ![](gradients/bicubic.png)
 

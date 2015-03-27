@@ -51,6 +51,9 @@
     scale=ewa_lanczossoft
 ![](hash/ewa_lanczossoft.png)
 
+    scale=haasnsoft
+![](hash/haasnsoft.png)
+
     scale=bicubic
 ![](hash/bicubic.png)
 

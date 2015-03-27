@@ -30,6 +30,9 @@
     scale=ewa_lanczossoft
 ![](rose/ewa_lanczossoft.png)
 
+    scale=haasnsoft
+![](rose/haasnsoft.png)
+
     scale=robidoux
 ![](rose/robidoux.png)
 
