@@ -31,6 +31,8 @@ Results
 
 Click on an image to see the upscaled versions.
 
+[![Ark](ark/original.png)](Ark.md)
+
 [![Rose](rose/original.png)](Rose.md)
 
 [![Hash](hash/original.png)](Hash.md)
