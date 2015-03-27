@@ -1,82 +1,82 @@
 # Hash
 
     scale=bilinear
-![](upscaling/hash/bilinear.png)
+![](hash/bilinear.png)
 
     scale=bicubic_fast
-![](upscaling/hash/bicubic_fast.png)
+![](hash/bicubic_fast.png)
 
     scale=sharpen3
-![](upscaling/hash/sharpen3.png)
+![](hash/sharpen3.png)
 
     scale=sharpen5
-![](upscaling/hash/sharpen5.png)
+![](hash/sharpen5.png)
 
     scale=oversample
-![](upscaling/hash/oversample.png)
+![](hash/oversample.png)
 
     scale=spline16
-![](upscaling/hash/spline16.png)
+![](hash/spline16.png)
 
     scale=spline36
-![](upscaling/hash/spline36.png)
+![](hash/spline36.png)
 
     scale=spline64
-![](upscaling/hash/spline64.png)
+![](hash/spline64.png)
 
     scale=sinc
-![](upscaling/hash/sinc.png)
+![](hash/sinc.png)
 
     scale=lanczos
-![](upscaling/hash/lanczos.png)
+![](hash/lanczos.png)
 
     scale=ginseng
-![](upscaling/hash/ginseng.png)
+![](hash/ginseng.png)
 
     scale=jinc
-![](upscaling/hash/jinc.png)
+![](hash/jinc.png)
 
     scale=ewa_lanczos
-![](upscaling/hash/ewa_lanczos.png)
+![](hash/ewa_lanczos.png)
 
     scale=ewa_hanning
-![](upscaling/hash/ewa_hanning.png)
+![](hash/ewa_hanning.png)
 
     scale=ewa_ginseng
-![](upscaling/hash/ewa_ginseng.png)
+![](hash/ewa_ginseng.png)
 
     scale=ewa_lanczossharp
-![](upscaling/hash/ewa_lanczossharp.png)
+![](hash/ewa_lanczossharp.png)
 
     scale=ewa_lanczossoft
-![](upscaling/hash/ewa_lanczossoft.png)
+![](hash/ewa_lanczossoft.png)
 
     scale=bicubic
-![](upscaling/hash/bicubic.png)
+![](hash/bicubic.png)
 
     scale=bcspline
-![](upscaling/hash/bcspline.png)
+![](hash/bcspline.png)
 
     scale=catmull_rom
-![](upscaling/hash/catmull_rom.png)
+![](hash/catmull_rom.png)
 
     scale=mitchell
-![](upscaling/hash/mitchell.png)
+![](hash/mitchell.png)
 
     scale=robidoux
-![](upscaling/hash/robidoux.png)
+![](hash/robidoux.png)
 
     scale=robidouxsharp
-![](upscaling/hash/robidouxsharp.png)
+![](hash/robidouxsharp.png)
 
     scale=box
-![](upscaling/hash/box.png)
+![](hash/box.png)
 
     scale=nearest
-![](upscaling/hash/nearest.png)
+![](hash/nearest.png)
 
     scale=triangle
-![](upscaling/hash/triangle.png)
+![](hash/triangle.png)
 
     scale=gaussian
-![](upscaling/hash/gaussian.png)
+![](hash/gaussian.png)

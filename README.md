@@ -31,8 +31,8 @@ Results
 
 Click on an image to see the upscaled versions.
 
-[![Rose](upscaling/rose/original.png)](upscaling/Rose.md)
+[![Rose](rose/original.png)](Rose.md)
 
-[![Hash](upscaling/hash/original.png)](upscaling/Hash.md)
+[![Hash](hash/original.png)](Hash.md)
 
-[![Gradients](upscaling/gradients/original.png)](upscaling/Gradients.md)
+[![Gradients](gradients/original.png)](Gradients.md)
