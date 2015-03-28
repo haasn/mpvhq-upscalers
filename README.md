@@ -41,6 +41,8 @@ Click on an image to see the upscaled versions.
 
 [![Ark](ark-small/original.png) (smaller)](Ark-small.md)
 
+[![Baby](baby/original.png)](Baby.md)
+
 Window functions
 ================
 
