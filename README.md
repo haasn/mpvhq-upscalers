@@ -37,6 +37,8 @@ Click on an image to see the upscaled versions.
 
 [![Gradients](gradients/original.png)](Gradients.md)
 
+[![Ark](ark/original.png)](Ark.md)
+
 Window functions
 ================
 
