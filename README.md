@@ -14,7 +14,7 @@ The resulting output was captured using imagemagick:
 
     import -depth 8 SCALER.png
 
-All of this is automated using a script, as can be found [here](https://github.com/haasn/cms/blob/master/scalers.sh).
+All of this is automated using a script, as can be found [here](https://github.com/haasn/mpvhq-upscalers/blob/master/generate.sh).
 
 Antiringing
 ===========
