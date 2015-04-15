@@ -43,6 +43,8 @@ Click on an image to see the upscaled versions.
 
 [![Baby](baby/original.png)](Baby.md)
 
+[![Dot](dot/original.png) (zoomed preview)](Dot.md)
+
 Window functions
 ================
 

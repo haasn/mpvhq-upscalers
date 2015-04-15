@@ -22,7 +22,7 @@ geometry="1000x-1"
 stime=1
 scalers=$(mpv -vo opengl-hq:scale=help | tail -n +2)
 
-blacklist="custom triangle box"
+blacklist="custom triangle box bicubic_fast"
 for item in $blacklist; do
     scalers=$(echo "$scalers" | sed -e "s/$item//")
 done
