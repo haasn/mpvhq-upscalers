@@ -1,3 +1,5 @@
+#!/bin/bash
+
 function usage() {
   echo "usage: $0 test_image <options>"
   echo ""
@@ -20,7 +22,7 @@ fi
 #default
 geometry="1000x-1"
 stime=1
-scalers=$(mpv -vo opengl-hq:scale=help | tail -n +2)
+scalers=$(mpv --no-config -vo opengl-hq:scale=help | tail -n +2)
 
 blacklist="custom triangle box bicubic_fast"
 for item in $blacklist; do

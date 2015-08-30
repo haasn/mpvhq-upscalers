@@ -18,6 +18,12 @@
     scale-window=welch
 ![](windows/welch.png)
 
+    scale-window=petsu
+![](windows/petsu.png)
+
+    scale-window=petsu:scale=wparam=1.5
+![](windows/petsu-1.5.png)
+
     scale-window=kaiser
 ![](windows/kaiser.png)
 
