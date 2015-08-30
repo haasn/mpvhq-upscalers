@@ -1,3 +1,5 @@
+#!/bin/bash
+
 function usage() {
   echo "usage: $0 test_image <options>"
   echo ""
