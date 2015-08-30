@@ -18,6 +18,9 @@
     scale-window=welch
 ![](windows/welch.png)
 
+    scale-window=petsu
+![](windows/petsu.png)
+
     scale-window=kaiser
 ![](windows/kaiser.png)
 
