@@ -62,6 +62,11 @@ fi
 echo -e "# ${imgbase^}" > ${imgbase^}.md
 
 for scaler in $scalers; do
+  mpv --no-config --use-text-osd=yes $img --title="scaler_test" --geometry=$geometry -vo opengl-hq:dither-depth=8:scale=$scaler:cscale=$scaler:dscale=$scaler > /dev/null
+  if [ $? -ne 0 ]; then
+	  echo "mpv failed. Skipping test"
+	  continue
+  fi
   (mpv --no-config --use-text-osd=yes --pause $img --title="scaler_test" --geometry=$geometry -vo opengl-hq:dither-depth=8:scale=$scaler:cscale=$scaler:dscale=$scaler) &
   id=$!
   sleep $stime
